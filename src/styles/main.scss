@@ -1,0 +1,15 @@
+$bg: red;
+
+body {
+    background-color: $bg;
+    font-family: sans-serif;
+}
+a {
+    color: darkblue;
+    font-size: 24px;
+    text-decoration: none;
+}
+img {
+    width: 300px;
+    object-fit: cover;
+}
